@@ -1,1 +1,1 @@
-print("hello world")pprint("hello world")rprint("hello world")iprint("hello world")nprint("hello world")tprint("hello world")(print("hello world")"print("hello world")hprint("hello world")eprint("hello world")lprint("hello world")lprint("hello world")oprint("hello world") print("hello world")wprint("hello world")oprint("hello world")rprint("hello world")lprint("hello world")dprint("hello world")"print("hello world"))print("hello world")
+print("hello world")
